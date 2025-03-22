@@ -1,3 +1,21 @@
+### 👋 Hi, I'm Paweenwat
+
+**Freelance Data Analyst & Web Developer**  
+I specialize in transforming boring academic papers into **interactive data visualization web applications**.  
+Bringing research to life through **interactive charts, dashboards, and web experiences**.  
+
+🛠 **Expertise:**  
+- **Geospatial Analysis** (maps, spatial data visualization)  
+- **Image Processing** (computer vision, pattern recognition)  
+- **AI Model Development** (ML, deep learning applications)  
+- **Data Management & ETL** (data pipelines, data integration, optimization, and **database design & optimization**)  
+- **Web Scraping** (automated data collection from websites)  
+- **Full-Stack Web Development** (React, Node.js, Python, etc.)  
+
+💻 **Open to Work**: Full-stack web development & data visualization projects.  
+📫 **Contact**: dev.paweenwat.pra@gmail.com  
+
+
 # 💻 Tech Stack:
 
 ## 🔠 Languages:
